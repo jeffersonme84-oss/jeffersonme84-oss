@@ -88,14 +88,6 @@ jefferson@dev:~$ neofetch
   <img src="https://streak-stats.demolab.com?user=jeffersonme84-oss&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeffersonme84-oss&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeffersonme84-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Troféus"/>
-</p>
-
 ---
 
 ## 🚀 Projeto principal: Portfólio 2027
